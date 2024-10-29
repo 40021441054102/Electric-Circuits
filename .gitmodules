@@ -7,3 +7,6 @@
 [submodule "Projects/1 - Android Oscilloscope/RKEL"]
 	path = Projects/1 - Android Oscilloscope/RKEL
 	url = https://github.com/RamtinKosari/RKEL.git
+[submodule "Mini-Projects/RP-SBMEQ"]
+	path = Mini-Projects/RP-SBMEQ
+	url = https://github.com/40021441054102/RP-SBMEQ.git
