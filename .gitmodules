@@ -10,3 +10,6 @@
 [submodule "Mini-Projects/RP-SBMEQ"]
 	path = Mini-Projects/RP-SBMEQ
 	url = https://github.com/40021441054102/RP-SBMEQ.git
+[submodule "Projects/1 - Android Oscilloscope/Oscillodroid"]
+	path = Projects/1 - Android Oscilloscope/Oscillodroid
+	url = https://github.com/40021441054102/Oscillodroid.git
